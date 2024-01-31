@@ -16,6 +16,7 @@ function App() {
 
   return (
     <div className="App">
+    
       <h1>Movie App</h1>
       <input type='text' placeholder='Enter movie name...' />
       {
